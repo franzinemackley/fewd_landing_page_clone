@@ -570,9 +570,10 @@ img.logo {
 }
 
 .devices {
-    box-sizing: border-box width: 33.3333%;
+    box-sizing: border-box;
     display: inline-block;
     padding: 1.5rem;
+    width: 20rem;
 }
 
 .icons li {
